@@ -1,0 +1,11 @@
+{
+  "name": "com.clevertap.nativetoast",
+  "displayName": "CleverTap Native Toast",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "A simple Unity SDK to show native Toast / Snackbar on Android and iOS",
+  "author": {
+    "name": "Dhruv Mevada",
+    "email": "dhruv.mevada.contact@gmail.com"
+  }
+}

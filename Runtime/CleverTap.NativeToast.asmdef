@@ -1,0 +1,8 @@
+{
+  "name": "CleverTap.NativeToast",
+  "rootNamespace": "CleverTap.NativeToast",
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}

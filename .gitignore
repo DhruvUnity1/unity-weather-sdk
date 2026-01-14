@@ -1,2 +1,15 @@
-*.meta
+# OS Files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Unity generated meta files (these should be ignored)
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# But DO NOT ignore regular .meta files - Unity packages need them!
